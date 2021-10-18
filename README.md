@@ -1,3 +1,6 @@
+Hello,
+This repository contains all the necessary code base for the Programming assignments for CS7015-Deep Learning, offered at IIT-Madras. The assignments are done in collaboration with [Anand Rajasekhar](https://github.com/anandrajasekar18), BE15B004
+
 ## Programming Assignment 1
 Implementation of deep neural networks from scratch for multiclass classification with mean squared error and cross entropy loss, tanh, relu and sigmoid activations, gradient descent, momentum, nag and adam optimizers with l2 regularization.  
 
